@@ -1,0 +1,14 @@
+Matriz_jugador_1:
+[[0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 12, 0, 0, 0, 0, 0, 0, 0], [14, 0, 0, 0, 0, 0, 0, 41, 51, 61], [0, 0, 0, 0, 0, 0, 33, 0, 0, 0], [11, 46, 0, 0, 0, 0, 23, 0, 30, 20], [0, 56, 0, 0, 0, 0, 0, 0, 0, 0], [0, 66, 0, 0, 0, 0, 0, 0, 10, 0], [0, 22, 0, 0, 0, 0, 0, 12, 0, 0], [0, 32, 0, 0, 0, 0, 0, 33, 0, 0], [0, 0, 0, 0, 12, 0, 0, 23, 0, 0]]
+Matriz_jugador_2:
+[[37, 0, 0, 22, 0, 0, 0, 0, 0, 0], [27, 0, 0, 32, 0, 0, 0, 0, 0, 0], [0, 0, 0, 33, 0, 0, 0, 0, 0, 0], [0, 0, 12, 23, 0, 0, 0, 33, 0, 0], [0, 0, 0, 60, 50, 40, 0, 23, 0, 0], [0, 0, 0, 0, 0, 0, 0, 41, 51, 61], [0, 0, 0, 0, 0, 12, 0, 0, 0, 0], [0, 0, 12, 12, 0, 12, 0, 0, 0, 0], [13, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+Jugador_1:
+['Ryan', True, 1, [5, 4, 1], 2]
+Jugador_2:
+['Daniel', False, 2, [6, 3, 2], 4]
+Turnos:
+12
+Messages_matriz:
+['(MISS) El disparo del jugador Ryan realizado en las casillas (1,8) falló.\n', '(SHOT) El disparo del jugador Daniel realizado en las casillas (1,5) logró alcanzar a una parte del acorazado.\n', '(MISS) El disparo del jugador Ryan realizado en las casillas (8,2) falló.\n', '(SHOT) El disparo del jugador Daniel realizado en las casillas (1,4) logró alcanzar a una parte del acorazado. \n', '(MISS) El disparo del jugador Ryan realizado en las casillas (0,0) falló.\n', '(SHOT) El disparo del jugador Daniel realizado en las casillas (1,6) logró alcanzar a una parte del acorazado.\n', '(SHOT) Golpe de gracia (+3 puntos).\n', '(MISS) El disparo del jugador Ryan realizado en las casillas (2,1) falló.\n', '(MISS) El disparo del jugador Daniel realizado en las casillas (4,4) falló.\n', '(SHOT)El disparo del jugador Ryan realizado en las casillas (0,0) logró alcanzar a una parte del crucero.\n', '(SHOT) El disparo del jugador Daniel realizado en las casillas (0,2) logró alcanzar a un destructor (GOLPE DE GRACIA: +1 PUNTO).\n', '(SHOT) El disparo del jugador Ryan realizado en las casillas (0,1) logró alcanzar a un destructor.\n', '(SHOT) Golpe de gracia (+2 puntos).\n', '(MISS) El disparo del jugador Daniel realizado en las casillas (3,3) falló.\n']
+Area_cada_boton:
+25
